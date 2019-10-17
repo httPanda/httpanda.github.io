@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://chou9827.github.io/sitemap.xml
