@@ -3,7 +3,7 @@ title: HttP_anda Blog
 email: http_panda@daum.net
 description: 'panda panda'
 keyword: 'key, word, test'
-url: 'http://http_panda.github.io/' # your host
+url: 'http://httpanda.github.io/' # your host
 baseurl: ''
 github_username:  http_anda
 
@@ -49,7 +49,7 @@ sns:
   # weibo: '//weibo.com/lovecolcol'
   # juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   # instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/http_anda'
+  github: '//github.com/httpanda'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
